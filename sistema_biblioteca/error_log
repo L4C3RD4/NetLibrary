@@ -1,0 +1,1 @@
+[14-Jan-2019 18:04:49 America/Sao_Paulo] PHP Fatal error:  Call to undefined method Login_leitor_model::excluilog() in /home/funecria/netlibrary.funecriacho.com.br/application/controllers/leitores_controller.php on line 205
